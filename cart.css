@@ -1,0 +1,21 @@
+#row2{
+    display: flex;
+    font-size: 24px;
+    font-weight: bolder;
+border: 1px solid red;
+}
+#row2>div{
+    margin-left: 25px;
+    cursor: pointer;
+}
+#row2>div>p{
+    margin-top: 0%;
+}
+#img{
+    height: 20px;
+    margin-left: -15px;
+    margin-top: 4px;
+}
+#row3{
+border: 1px solid red;
+}
