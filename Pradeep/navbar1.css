@@ -1,0 +1,55 @@
+#row1{
+    /* border: 1px solid red; */
+    height:140px;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    margin-bottom: 50px;
+    margin-top: -50px;
+    background-color: white;
+}
+
+#row1>div{
+    /* border: 1px solid red; */
+    height: 100%;
+}
+#a{width: 3%;}
+#a>hr{
+    width: 50%;
+    cursor: pointer;
+}
+#b{width: 59%;}
+#b>img{
+    height: 80px;
+    cursor: pointer;
+    margin-left: 60px;
+    /* border: 1px solid black; */
+}
+
+#c{width: 15%;}
+#c>p{
+    font-size: 20px;
+    margin-top: 2%;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+#d{width: 4%;}
+#d>p{
+    font-size: 20px;
+    margin-top: 12%;
+    cursor: pointer;
+}
+#e{width: 4%;}
+#e>img{
+    height: 40px;
+    width: 100%;
+    cursor: pointer;
+}
+#f{width: 15%;
+    font-size: 20px;
+   padding-top: 6px;
+   cursor: pointer;
+   /* border: 1px solid red; */
+}
