@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#navbar{
+    width: 98%;
+   height:150px;
+   display: flex;
+   justify-content: space-evenly;
+   /* border: 1px solid red; */
+   
+}
+#main{
+    position: relative;
+   width: 100%;
+   height: auto;
+   /* border: 1px solid blue; */
+}
+
+#slideimage{
+    height: auto;
+    width: 100%;
+   
+} 
+#logo{
+    width: 20%;
+    height: 99%;
+    /* border: 1px solid rebeccapurple; */
+}
+#logo img{
+    width: 100%;
+    height: auto;
+}
+#bar{
+    display: flex;
+    justify-content: space-evenly;
+    width: 75%;
+    height: 99%;
+    /* border: 1px solid peru; */
+}
+#info{
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 30%;
+    /* border: 1px solid blue; */
+    margin-left: 290px;
+}
+#info p{
+    color: gray;
+}
+/* #info img{
+    height: 30px;
+    width: 70px;
+} */
